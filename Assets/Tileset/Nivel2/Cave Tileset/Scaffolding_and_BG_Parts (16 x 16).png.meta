@@ -1,0 +1,1973 @@
+fileFormatVersion: 2
+guid: e8337f5168540524caafdf7008b5d88c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb36f849b485a24c8570794173de9c7
+      internalID: -1794016538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504292ae29349024f8b3d33562bd2888
+      internalID: -694802690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f41f98e319a304e97e88debc67dbcd
+      internalID: -1458885237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bad73d755a80d4a9e15dacbbab8fae
+      internalID: 1691103279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6acf5220e6e3504eb1965fe411ca652
+      internalID: -1552703170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_16
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d376892e8111a42aa1fcc92e396567
+      internalID: -448507431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_17
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff98e486c60b6944eb7f2178b66ab3cb
+      internalID: 1777389858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac4d0988581d5945bbffa06d169def4
+      internalID: 2071028242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cbf779679ba044f8c14963addf2698
+      internalID: -1399189248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ce8ed24d1dbfc418b1295174497c5d
+      internalID: 440360067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_25
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfec951b7c3baf4d8948c32220ba249
+      internalID: 1743430453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac93b25edefb3c4193c4d22694ce7eb
+      internalID: 1291742305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b2e715bbad51b469e2c14b0aed6d46
+      internalID: -307359873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef71b1a380a1e21449aad1c471115719
+      internalID: -431897715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90949d37dbd40146bccfee9abd37b09
+      internalID: 132297818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_30
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099b53f0dbdaba14f98f4f38acd6b445
+      internalID: 797295572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259f954c21514be418c39a768e17ff1f
+      internalID: 403463405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_32
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04730d3858b50ba41add594d77188a8c
+      internalID: 1166157271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_33
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdfb7aa6577d454496d15f76ce7b05f
+      internalID: -1230424753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_34
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea0ff75b5c5d8f4dab1c3f313eb4271
+      internalID: -232073490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_35
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e1cf2bfbcb57b48bc25a894061cffc
+      internalID: 993812668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159382110a027564d906517c2554afb1
+      internalID: -898942106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4b99a06d8945442b1d12002f4d959b
+      internalID: 2145095758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaad57eb38cda545965f216abdaf0cc
+      internalID: 517698714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278d3af4bbcbb5145b97ffb98bfd41e0
+      internalID: 2077346640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_40
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5b800976091034e8687f9292b4890d
+      internalID: 675132955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_41
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7400b7b8591d4fc47a0fa71f1e2df8e2
+      internalID: -181829316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dbd5e0b518c7c41a2fd3d04d56e8fa
+      internalID: 1655281529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_43
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b75cef3d7d9fbf48aa8ddc7b18be4d6
+      internalID: 330479196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_44
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7bb8c764f5a9e45af275d1a106af8d
+      internalID: 1512074475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_45
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aed3cc658c5103448dc40492fb36bc1
+      internalID: 1621819805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_46
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a30267b3dda1dd4fbd12935172e4fdc
+      internalID: 457017868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_47
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8a7b5a5bc4b1d4f9d82ef74481521e
+      internalID: -1647819020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2490475a4f581459861b64bacfb5a1
+      internalID: -1298419579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a772089d0474a4986ac8bc04d578bf
+      internalID: 1543525476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_50
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da32cfa99b34f949a065c859b948494
+      internalID: -18678753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d019c239e114d34694272a469336695
+      internalID: -524293031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b143b1b8d5bcf2419fbdaadc6453f10
+      internalID: 92764550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_53
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e845efb3bef543344b887448be36668c
+      internalID: 887423682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_54
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc319f712316add4db844734870d83f4
+      internalID: 1239534392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_55
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6715a59039a2aa4cb18654c09938705
+      internalID: -733800390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_56
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bb50a852670f94da59caa10ae38fb5
+      internalID: -1343940940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146ce56cec162e44684cf19f8a70b74b
+      internalID: 1632919941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_58
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5402356cc3c4ce41a072483a7303c3a
+      internalID: 1128520944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_59
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fa2cf76eeda674d9a4ad5f85b081ad
+      internalID: 205088058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_60
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b276a0a8262491640989bd0863338ef5
+      internalID: -527257453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_61
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4a4f2875e19f046b9a96b70f6afdb0
+      internalID: 1939370135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_62
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8774d480595fa9b4091af70de825b376
+      internalID: 1994171883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_63
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20019f3ce292d6540893a14296a006ca
+      internalID: 2045885629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_64
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e68b79478782448bc50ae437a4e33e
+      internalID: -139344978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888a55d0f9481124db08194333f55587
+      internalID: -320280947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c17be9f3d3aebe438ace019e2d4f92d
+      internalID: -519456048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e28810f4815324e8a9499e4dc564df
+      internalID: -82767617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9b4253189455c479281afe2e945798
+      internalID: -387267291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_69
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7f1347672bbb9489fa4ab1b494541f
+      internalID: 536127938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_71
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502321c3e46bb664f90fb3b03de03b99
+      internalID: -1340336001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9af9251c836c5439f8dd48504dc08a
+      internalID: -1448045467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_73
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240cbceacba86404ebca772d3cd1654c
+      internalID: -1328076525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa2bab8f2494614f8c56fbd6cae4b0f
+      internalID: -1771743332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e97c2518ea91c4299d4c15ccd6549d
+      internalID: -773765445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_76
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1ef2d4cae5ff44c8df1f8568e50808
+      internalID: 1136274273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_77
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa32be330758bbe40aa0ec1e2f796da7
+      internalID: 2042298992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_78
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c3f7cac47246a489d4026fdfb932f9
+      internalID: -1914231573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_79
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8976b4b9a29115f40b80de793dffc11a
+      internalID: 1240773825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_80
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f1430465c4e854aa7487591d5efbcb
+      internalID: 591438652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_83
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266bcec749db63642bc954ee4e65629e
+      internalID: 1324915504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da9b684a5512ab479dc74a1319f6907
+      internalID: -647454654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_85
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f653d563a08ce42a40c35e8a2c0baf
+      internalID: 1865839442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_86
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90452fda52a1f34fac3a50c3b8fb439
+      internalID: -735413279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734094b038a7b0a46aab063aac9138a1
+      internalID: 933084924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_88
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9f1389eb1c006498a0812caa542833
+      internalID: 1067791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2782d457fd1710f4e894269c2764a666
+      internalID: -1075357087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb4b8f6931e14846a5c1cb24bf690ca
+      internalID: 273121559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_91
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5867b00c4f7f91a4ba40ecb8c0de9d4a
+      internalID: 1124659806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_92
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a55f9b6c9fa6e94cb0c2bd32fce57e9
+      internalID: -1685927038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_93
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d3972ba6d197e4eb114c7dbb3d6ea5
+      internalID: 1662505637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_94
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f5bf1cb8fe5934493cbbbe90c1dae2
+      internalID: 181466355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_95
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf3d2b6d36f31442bf3f1b75fb9d8b0
+      internalID: -238427201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_103
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 17
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce0ece17c430a74199f920723de2857
+      internalID: -1081847149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_105
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 16
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680d4bfc219e8244c9a4ed46e474f649
+      internalID: -1828793666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_and_BG_Parts (16 x 16)_107
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 16
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8087e439697b644a1e82250e945107
+      internalID: -246508895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Scaffolding_and_BG_Parts (16 x 16)_0: -729843160
+      Scaffolding_and_BG_Parts (16 x 16)_1: 1846962204
+      Scaffolding_and_BG_Parts (16 x 16)_10: -313575217
+      Scaffolding_and_BG_Parts (16 x 16)_100: 227995476
+      Scaffolding_and_BG_Parts (16 x 16)_101: -1749427341
+      Scaffolding_and_BG_Parts (16 x 16)_102: 85295680
+      Scaffolding_and_BG_Parts (16 x 16)_103: -1081847149
+      Scaffolding_and_BG_Parts (16 x 16)_104: -2101786082
+      Scaffolding_and_BG_Parts (16 x 16)_105: -1828793666
+      Scaffolding_and_BG_Parts (16 x 16)_106: 1152471673
+      Scaffolding_and_BG_Parts (16 x 16)_107: -246508895
+      Scaffolding_and_BG_Parts (16 x 16)_108: 1824976343
+      Scaffolding_and_BG_Parts (16 x 16)_109: 1804618629
+      Scaffolding_and_BG_Parts (16 x 16)_11: -1794016538
+      Scaffolding_and_BG_Parts (16 x 16)_110: -1102891216
+      Scaffolding_and_BG_Parts (16 x 16)_111: -1513044282
+      Scaffolding_and_BG_Parts (16 x 16)_112: -1268952075
+      Scaffolding_and_BG_Parts (16 x 16)_12: -694802690
+      Scaffolding_and_BG_Parts (16 x 16)_13: -1458885237
+      Scaffolding_and_BG_Parts (16 x 16)_14: 1691103279
+      Scaffolding_and_BG_Parts (16 x 16)_15: -1552703170
+      Scaffolding_and_BG_Parts (16 x 16)_16: -448507431
+      Scaffolding_and_BG_Parts (16 x 16)_17: 1777389858
+      Scaffolding_and_BG_Parts (16 x 16)_18: 1034698761
+      Scaffolding_and_BG_Parts (16 x 16)_19: 1274395220
+      Scaffolding_and_BG_Parts (16 x 16)_2: 1840562440
+      Scaffolding_and_BG_Parts (16 x 16)_20: 2071028242
+      Scaffolding_and_BG_Parts (16 x 16)_21: -1923138503
+      Scaffolding_and_BG_Parts (16 x 16)_22: -1985727948
+      Scaffolding_and_BG_Parts (16 x 16)_23: -1399189248
+      Scaffolding_and_BG_Parts (16 x 16)_24: 440360067
+      Scaffolding_and_BG_Parts (16 x 16)_25: 1743430453
+      Scaffolding_and_BG_Parts (16 x 16)_26: 1291742305
+      Scaffolding_and_BG_Parts (16 x 16)_27: -307359873
+      Scaffolding_and_BG_Parts (16 x 16)_28: -431897715
+      Scaffolding_and_BG_Parts (16 x 16)_29: 132297818
+      Scaffolding_and_BG_Parts (16 x 16)_3: 584031396
+      Scaffolding_and_BG_Parts (16 x 16)_30: 797295572
+      Scaffolding_and_BG_Parts (16 x 16)_31: 403463405
+      Scaffolding_and_BG_Parts (16 x 16)_32: 1166157271
+      Scaffolding_and_BG_Parts (16 x 16)_33: -1230424753
+      Scaffolding_and_BG_Parts (16 x 16)_34: -232073490
+      Scaffolding_and_BG_Parts (16 x 16)_35: 993812668
+      Scaffolding_and_BG_Parts (16 x 16)_36: -898942106
+      Scaffolding_and_BG_Parts (16 x 16)_37: 2145095758
+      Scaffolding_and_BG_Parts (16 x 16)_38: 517698714
+      Scaffolding_and_BG_Parts (16 x 16)_39: 2077346640
+      Scaffolding_and_BG_Parts (16 x 16)_4: 186019687
+      Scaffolding_and_BG_Parts (16 x 16)_40: 675132955
+      Scaffolding_and_BG_Parts (16 x 16)_41: -181829316
+      Scaffolding_and_BG_Parts (16 x 16)_42: 1655281529
+      Scaffolding_and_BG_Parts (16 x 16)_43: 330479196
+      Scaffolding_and_BG_Parts (16 x 16)_44: 1512074475
+      Scaffolding_and_BG_Parts (16 x 16)_45: 1621819805
+      Scaffolding_and_BG_Parts (16 x 16)_46: 457017868
+      Scaffolding_and_BG_Parts (16 x 16)_47: -1647819020
+      Scaffolding_and_BG_Parts (16 x 16)_48: -1298419579
+      Scaffolding_and_BG_Parts (16 x 16)_49: 1543525476
+      Scaffolding_and_BG_Parts (16 x 16)_5: 580602438
+      Scaffolding_and_BG_Parts (16 x 16)_50: -18678753
+      Scaffolding_and_BG_Parts (16 x 16)_51: -524293031
+      Scaffolding_and_BG_Parts (16 x 16)_52: 92764550
+      Scaffolding_and_BG_Parts (16 x 16)_53: 887423682
+      Scaffolding_and_BG_Parts (16 x 16)_54: 1239534392
+      Scaffolding_and_BG_Parts (16 x 16)_55: -733800390
+      Scaffolding_and_BG_Parts (16 x 16)_56: -1343940940
+      Scaffolding_and_BG_Parts (16 x 16)_57: 1632919941
+      Scaffolding_and_BG_Parts (16 x 16)_58: 1128520944
+      Scaffolding_and_BG_Parts (16 x 16)_59: 205088058
+      Scaffolding_and_BG_Parts (16 x 16)_6: -126981663
+      Scaffolding_and_BG_Parts (16 x 16)_60: -527257453
+      Scaffolding_and_BG_Parts (16 x 16)_61: 1939370135
+      Scaffolding_and_BG_Parts (16 x 16)_62: 1994171883
+      Scaffolding_and_BG_Parts (16 x 16)_63: 2045885629
+      Scaffolding_and_BG_Parts (16 x 16)_64: -139344978
+      Scaffolding_and_BG_Parts (16 x 16)_65: -320280947
+      Scaffolding_and_BG_Parts (16 x 16)_66: -519456048
+      Scaffolding_and_BG_Parts (16 x 16)_67: -82767617
+      Scaffolding_and_BG_Parts (16 x 16)_68: -387267291
+      Scaffolding_and_BG_Parts (16 x 16)_69: 536127938
+      Scaffolding_and_BG_Parts (16 x 16)_7: 1058691951
+      Scaffolding_and_BG_Parts (16 x 16)_70: -335248930
+      Scaffolding_and_BG_Parts (16 x 16)_71: -1340336001
+      Scaffolding_and_BG_Parts (16 x 16)_72: -1448045467
+      Scaffolding_and_BG_Parts (16 x 16)_73: -1328076525
+      Scaffolding_and_BG_Parts (16 x 16)_74: -1771743332
+      Scaffolding_and_BG_Parts (16 x 16)_75: -773765445
+      Scaffolding_and_BG_Parts (16 x 16)_76: 1136274273
+      Scaffolding_and_BG_Parts (16 x 16)_77: 2042298992
+      Scaffolding_and_BG_Parts (16 x 16)_78: -1914231573
+      Scaffolding_and_BG_Parts (16 x 16)_79: 1240773825
+      Scaffolding_and_BG_Parts (16 x 16)_8: 1096866473
+      Scaffolding_and_BG_Parts (16 x 16)_80: 591438652
+      Scaffolding_and_BG_Parts (16 x 16)_81: -1317347719
+      Scaffolding_and_BG_Parts (16 x 16)_82: -309277164
+      Scaffolding_and_BG_Parts (16 x 16)_83: 1324915504
+      Scaffolding_and_BG_Parts (16 x 16)_84: -647454654
+      Scaffolding_and_BG_Parts (16 x 16)_85: 1865839442
+      Scaffolding_and_BG_Parts (16 x 16)_86: -735413279
+      Scaffolding_and_BG_Parts (16 x 16)_87: 933084924
+      Scaffolding_and_BG_Parts (16 x 16)_88: 1067791
+      Scaffolding_and_BG_Parts (16 x 16)_89: -1075357087
+      Scaffolding_and_BG_Parts (16 x 16)_9: -901047620
+      Scaffolding_and_BG_Parts (16 x 16)_90: 273121559
+      Scaffolding_and_BG_Parts (16 x 16)_91: 1124659806
+      Scaffolding_and_BG_Parts (16 x 16)_92: -1685927038
+      Scaffolding_and_BG_Parts (16 x 16)_93: 1662505637
+      Scaffolding_and_BG_Parts (16 x 16)_94: 181466355
+      Scaffolding_and_BG_Parts (16 x 16)_95: -238427201
+      Scaffolding_and_BG_Parts (16 x 16)_96: 935920474
+      Scaffolding_and_BG_Parts (16 x 16)_97: -209237871
+      Scaffolding_and_BG_Parts (16 x 16)_98: -63386221
+      Scaffolding_and_BG_Parts (16 x 16)_99: 55653652
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
